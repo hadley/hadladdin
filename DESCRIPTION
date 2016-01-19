@@ -1,0 +1,20 @@
+Package: hadladdin
+Title: RStudio add-ins by Hadley
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Hadley", "Wickham", , "hadley@rstudio.com", role = c("aut", "cre")),
+    person("RStudio", role = "cph")
+  )
+Description: These add-ins were written by Hadley to demonstrate the RStudio
+   add-in API.
+Depends:
+    R (>= 3.2.2)
+License: GPL-3
+LazyData: true
+Imports:
+    shiny,
+    miniUI,
+    translateR
+Suggests:
+    rstudioapi
+RoxygenNote: 5.0.1

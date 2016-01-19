@@ -1,0 +1,4 @@
+Name: Translate
+Description: Translate the currently selected text
+Binding: translate_text_addin
+Interactive: true
