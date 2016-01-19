@@ -18,3 +18,5 @@ Imports:
 Suggests:
     rstudioapi
 RoxygenNote: 5.0.1
+URL: https://github.com/hadley/hadladdin
+BugReports: https://github.com/hadley/hadladdin/issues
